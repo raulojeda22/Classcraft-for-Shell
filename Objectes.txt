@@ -1,0 +1,10 @@
+1-Poción de vida: Cura 10 de vida
+2-Poción de maná: Cura 10 de mana
+3-Frasco de Experiencia (mini): Dona 25 de xp
+4-Frasco de Experiencia: Dona 50 de xp
+5-Frasco de Experiencia (maxi): Dona 100 de xp
+6-Deposito de Experiencia (DINOSAURIO PUTAMENT GRAN OSTIA PUTA NO CAP EN ESTE UNIVERS DE LO GRAN QUE ES): Dona 10000 de xp
+7-Dado deluxe: Tens més prebabilitats de acertar apart de que pots recibir fins a 1000 de xp
+8-Dado del pringau: Tens menys probabilitats de acertar apart de que pots perdre fins a 1000 de xp
+9-Cambio de nombre: Pots cambiar el teu nom (AMAZINGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG)
+10-Compra aleatoria: Pots recibir vida, mana o experiencia.

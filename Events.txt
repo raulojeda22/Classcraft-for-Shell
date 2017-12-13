@@ -1,0 +1,32 @@
+0:Blue power - A random player wins 20 of MN
+1:Red power - A random player wins 10 of HP
+2:Teemo mushrooms - Every player of a team loses 10 of HP and they can't use powers for an hour
+3:Drake's strength - A whole team wins 200 of XP
+4:Iron's elixir - The health of a random player fully recovers
+5:Noxian Load - A random player instantly dies
+6:Cooldown - A random player can use a power without any cost
+7:Curse of the sad mummy - Every player of a team remain immobilized and they can't use any power during one day
+8:Baron's strenght - A whole team wins 250 of XP, 50 of HP, 50 of MN
+9:Frog's power - A team wins a poisonous shield and if some player of another team uses a power, he gets poisoned and will lose 25 of HP
+10:RP card - A random player wins 50 of RP
+11:Hextech power - A random player can buy an article in the shop totally free
+12:Zhonyas - A random player can't lose HP during a day
+13:Heimer's intelligency - 5 questions will be able to a player and for each one question that the player ask well or wrong, he will win 10 of XP or lose 5 of HP
+14:Prehistoric humor - A random player have to leave in front of his companions and do foolishness. If he can make the class laugh, he will get 150 of XP
+15:Krugs resistance - A random player gets useless during 2 hours
+16:Slippery's velocity - A random team can walk or run in the class when they want
+17:Broken escape - The players can leave the class 10 minutes before
+18:Crescendo - Every player of a team has to dance for getting 150 of XP
+19:Paranoia - Every player get unusable during one day and when the teacher is not explaining, the lights should go out and the windows have to be closed
+20:Okay - A random player will be able only to say Okay during one hour. If the player do it, he will win 100 of XP
+21:Requiem - Every player of a team lose 25 of HP
+22:Distortion of kingdoms - Every player will change their sites during one day and the next day they will return to their post
+23:Clean - A random team have to clean the class. If they do it, they will win 250 of XP
+24:ATACK!!! - A random player gets marked, and every player that goes with him in the yard will win 75 of XP
+25:All the arsenal - A random player can remove 30 HP of a full team but this player will die. He can decide if attack and die or don't attack and lose 5 of HP
+26:Bomb gift - A random player has to gift another player. If he do it, he will win 50 of XP and the one who recieves the gift will lose 20 of HP
+27:Aquatic break - A random team can leave the class for going to bathroom during one day (is not necessary to ask the teacher)
+28:Hemaplaga - A random player steals 20 of XP to all the players of the class
+29:Pueva - Fa una prova
+30:Prova2 - No fa una prova
+31:Prova3 - ARA SI JODER

@@ -1,0 +1,87 @@
+dc feb  8 09:56:14 CET 2017 RaülOjeda get 5 xp
+dc feb  8 10:57:46 CET 2017 XiangDi heal ÀngelVaño and gain 100 xp
+dc feb  8 10:59:43 CET 2017 XiangDi heal ÀngelVaño and gain 100 xp
+dc feb  8 10:59:50 CET 2017 XiangDi heal ÀngelVaño and gain 100 xp
+dc feb  8 11:40:25 CET 2017 RaülOjeda get 79 xp
+dc feb  8 11:46:38 CET 2017 atackinto atack RaülOjeda and he losed 10 hp
+dc feb  8 11:47:57 CET 2017 atackinto atack RaülOjeda and he losed 10 hp
+dc feb  8 11:50:32 CET 2017 atackinto atack RaülOjeda and he losed 10 hp
+dc feb  8 11:51:23 CET 2017 atackinto atack RaülOjeda and he losed 10 hp
+dc feb  8 12:22:41 CET 2017 atackinto used Botiquin and gain 10 hp and 100 xp
+vie feb 10 17:02:25 CET 2017 ÀngelVaño used trick and changed  's mana
+vie feb 10 17:03:28 CET 2017 ÀngelVaño atack  and he losed 20 hp. ÀngelVaño gain 125 xp
+vie feb 10 17:04:30 CET 2017 ÀngelVaño used trick and changed  's mana
+sáb feb 11 15:21:01 CET 2017 IvánPérez heal RaülOjeda and gain 100 xp
+sáb feb 11 15:26:17 CET 2017 IvánPérez steal JoséColomer 20 Mana
+sáb feb 11 15:26:46 CET 2017 IvánPérez steal JoanGuarner 20 Mana
+sáb feb 11 15:26:58 CET 2017 IvánPérez win 127 for the dice
+sáb feb 11 15:28:20 CET 2017 IvánPérez transfer the power to RaülOjeda
+sáb feb 11 15:30:15 CET 2017 RaülOjeda atack EthanHildik and he losed 10 hp
+sáb feb 11 15:30:41 CET 2017 RaülOjeda used Botiquin and gain 10 hp and 100 xp
+sáb feb 11 15:46:11 CET 2017 RaülOjeda atack ÀngelVaño and he losed 10 hp
+sáb feb 11 15:47:46 CET 2017 RaülOjeda used Botiquin and gain 10 hp and 100 xp
+sáb feb 11 15:55:44 CET 2017 RaülOjeda atack ÀngelVaño and he losed 10 hp
+sáb feb 11 15:56:37 CET 2017 RaülOjeda used Botiquin and gain 10 hp and 100 xp
+sáb feb 11 15:57:10 CET 2017 RaülOjeda atack ÀngelVaño and he losed 10 hp
+sáb feb 11 16:01:43 CET 2017 RaülOjeda atack ÀngelVaño and he losed 10 hp
+sáb feb 11 16:05:24 CET 2017 RaülOjeda atack ÀngelVaño and he losed 10 hp
+sáb feb 11 16:07:04 CET 2017 RaülOjeda atack ÀngelVaño and he losed 10 hp
+sáb feb 11 16:13:57 CET 2017 ÀngelVaño atack IvánPérez and he losed 20 hp. ÀngelVaño gain 125 xp
+sáb feb 11 16:16:09 CET 2017 ÀngelVaño atack IvánPérez and he losed 20 hp. ÀngelVaño gain 125 xp
+sáb feb 11 16:16:49 CET 2017 RaülOjeda atack ÀngelVaño and he losed 10 hp
+sáb feb 11 16:22:07 CET 2017 ÀngelVaño atack IvánPérez and he losed 20 hp
+sáb feb 11 16:26:26 CET 2017 ÀngelVaño atack IvánPérez and he losed 20 hp
+sáb feb 11 16:27:51 CET 2017 ÀngelVaño atack IvánPérez and he losed 20 hp
+sáb feb 11 16:34:14 CET 2017 ÀngelVaño atack IvánPérez and he losed 20 hp
+sáb feb 11 16:36:11 CET 2017 ÀngelVaño atack IvánPérez and he losed 20 hp
+sáb feb 11 16:45:05 CET 2017 RaülOjeda atack Prova15 and he losed 10 hp
+sáb feb 11 16:49:38 CET 2017 RaülOjeda atack ÀngelVaño and he losed 10 hp
+sáb feb 11 16:52:48 CET 2017 RaülOjeda atack ÀngelVaño and he losed 10 hp
+sáb feb 11 16:54:53 CET 2017 ÀngelVaño atack IvánPérez and he losed 20 hp
+sáb feb 11 16:55:07 CET 2017 ÀngelVaño win 5 for the dice
+sáb feb 11 17:02:01 CET 2017 ÀngelVaño atack IvánPérez and he losed 20 hp
+sáb feb 11 17:05:53 CET 2017 ÀngelVaño atack AlejandroRod and he losed 20 hp
+sáb feb 11 17:07:32 CET 2017 ÀngelVaño atack IvánPérez and he losed 20 hp
+sáb feb 11 17:08:59 CET 2017 RaülOjeda atack ÀngelVaño and he losed 10 hp
+sáb feb 11 17:09:22 CET 2017 RaülOjeda used Botiquin and gain 10 hp and 100 xp
+sáb feb 11 17:09:54 CET 2017 ÀngelVaño used Enhancing Wounds and lose 25 hp but gain 125 mana and 125 xp
+sáb feb 11 17:11:22 CET 2017 ÀngelVaño used Enhancing Wounds and lose 25 hp but gain 125 mana and 125 xp
+sáb feb 11 17:13:04 CET 2017 ÀngelVaño get 2 xp
+sáb feb 11 17:17:24 CET 2017 IvánPérez transfer the power to JohanVilla
+dom feb 12 12:02:00 CET 2017 IvánPérez get 99 mn
+dom feb 12 12:05:31 CET 2017  get  xp
+dom feb 12 12:06:20 CET 2017 EthanHildik get 2 xp
+dom feb 12 12:06:54 CET 2017  get  xp
+dom feb 12 12:20:01 CET 2017  get  xp
+dom feb 12 12:21:13 CET 2017  get  xp
+dom feb 12 12:21:54 CET 2017  get  xp
+dom feb 12 12:22:35 CET 2017  get  xp
+dom feb 12 12:23:05 CET 2017  get  xp
+dom feb 12 12:27:17 CET 2017 EthanHildik get 2 xp
+dom feb 12 12:27:42 CET 2017  get  xp
+dom feb 12 12:31:04 CET 2017  get  xp
+dom feb 12 12:31:51 CET 2017  get  xp
+dom feb 12 12:32:08 CET 2017  get  xp
+dom feb 12 12:35:18 CET 2017 EthanHildik get 1 xp
+dom feb 12 12:35:35 CET 2017 EthanHildik lose 5 xp
+dom feb 12 12:35:48 CET 2017 IvánPérez get 30 hp
+dom feb 12 12:36:05 CET 2017 RaülOjeda lose 10 hp
+dom feb 12 12:36:20 CET 2017 RaülOjeda get 60 mn
+dom feb 12 12:36:45 CET 2017 atackinto lose 2 mn
+dom feb 12 12:37:02 CET 2017 RaülOjeda get 20 hp
+dom feb 12 12:41:50 CET 2017 RaülOjeda get 10 hp
+dom feb 12 12:42:20 CET 2017 ÀngelVaño lose 10 hp
+dom feb 12 12:42:37 CET 2017 RaülOjeda get 10 mn
+dom feb 12 13:04:59 CET 2017  lose  mn
+dom feb 12 13:05:34 CET 2017  lose  mn
+dom feb 12 13:10:24 CET 2017  get  xp
+dom feb 12 13:10:46 CET 2017 EthanHildik get 2 xp
+dom feb 12 13:10:56 CET 2017 EthanHildik lose 2 xp
+dom feb 12 13:11:26 CET 2017 IvánPérez get 3 hp
+dom feb 12 13:11:40 CET 2017  get  mn
+dom feb 12 15:28:34 CET 2017 RaülOjeda get 21 hp
+dom feb 12 15:34:56 CET 2017 IvánPérez heal RaülOjeda and he gain 10 hp
+dom feb 12 15:35:27 CET 2017 IvánPérez get 80 mn
+dom feb 12 19:17:00 CET 2017 ÀngelVaño get 2 xp
+dom feb 12 19:33:09 CET 2017 IvánPérez win 12 of mana
+dom feb 12 19:33:28 CET 2017 IvánPérez win 188 for the dice

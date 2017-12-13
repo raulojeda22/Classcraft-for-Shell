@@ -1,0 +1,45 @@
+#!/bin/bash
+clear
+echo
+echo "......................................................................................................................................"
+echo "........................................................CLASS OF LEGENDS.............................................................."
+echo "......................................................................................................................................"
+echo
+echo "______________________________________________________________________________________________________________________________________"
+echo
+echo "1. Poder blau - Un jugador al atzar guaña 20 de MN"																								
+echo "2. Poder roig - Un jugador al atzar guaña 10 de HP"																								
+echo "3. Bolets de Teemo - Tots els jugadors d\'un equip perden 10 de HP i no poden utilitzar poders durant 1 hora."																								
+echo "4. Força del dragó - Tot un equip guaña 200 de XP"																								
+echo "5. Elixir de ferro - La vida de un jugador es recupera totalment."																								
+echo "6. Carga Noxiana - Un jugador al atzar morirà instantàneament"																								
+echo "7. Refredament - Un jugador al atzar pot utilitzar un poder sense ningun cost"																								
+echo "8. Elixir de poder - Els teus poders seran un 50% mes potents"																								
+echo "9. Maldició de la mòmia trista - Tots els jugadors d\'un equip queden immobilitzats i no poden utilitzar ningun poder durant 1 dia"																								
+echo "10. Força del baró - Tot un equip guaña 250 de XP, 50 de HP, 50 de MN apart de que durant una hora els seus poders seran un 75% mes forts"																								
+echo "11. Poder del gripau - Un equip guaña un escut verinós i per tant si algun jugador de els altres equips utilitza un poder aquest queda enverinat i per tant perdrà 25 de HP."																								
+echo "12. Targeta de RP - Un jugador al atzar guaña 50 de RP"																								
+echo "13. Poder Hextech - Un jugador al atzar por comprar un article en la tenda totalment gratis"																								
+echo "14. Zhonyas - Un jugador al atzar no pot perdre HP durant un dia"																								
+echo "15. La inteligencia de Heimer - Se li faran 5 preguntes a un jugador per cada una que responga be guaña 10 de XP i per cada una que falla perdra 5 de HP"																								
+echo "16. Humor del prehistoric - Un jugador al atzar ha d\'eixir davant dels seus companyers a fer tonteries si conseguix fer riure a la gent guaña 150 de XP"																								
+echo "17. Resistencia dels Krugs - Un jugador al atzar queda inutil durant 2 hores"																								
+echo "18. Vestigi del buit - Un jugador queda potenciat durant 1 setmana per tant els seus poders seran un 20% mes poderosos i sera un 20% mes resistent"																								
+echo "19. Velocitat de l\'esvarós - Un equip aleatori pot caminar o correr per la clase quan ells vuiguen"																							
+echo "20. Escape trencat - Els alumnes poden eixir de clase 10 min abans."																								
+echo "21. Crescendo - Tots el jugadors d\'un equip han de ballar per aconseguir 150 de XP"																								
+echo "22. Paranoia - Tots els alumnes queden inutilitzats durant un dia apart de que quan el professor no estiga explicant s\'han de parar totes les llums i tancar les finestres"																								
+echo "23. Okay - Un jugador al atzar soles podra dir Okay durant 1 hora, si ho fa guañara 100 de XP"																								
+echo "24. Requiem - Tots els jugadors d\'un equip perden 25 de HP"																								
+echo "25. Distorsió de regnes - Tots els alumnes cambiaran de lloc durant un dia al dia següent tornaran al seu lloc habitual"																								
+echo "26. Netejar - Una clase aleatoria deu de netejar la classe. Si ho fa guanyara 250 de XP"																								
+echo "27. AL ATAC!!!!!!! - Un jugador aleatori queda marcat, tots el que vagen amb ell en el pati guanyaran 75 de XP"																								
+echo "28. Tot el arsenal - Un jugador al atzar pot atacar a un equip complet per a llevar 30 de HP a tots pero aquest morira (pot decidir no atacar per no morir i sols perdre 5 de HP)"																								
+echo "29. Regal Bomba - Un jugador al atzar ha de fer un regal a altre jugador. Si o fa aquest guañara 50 de XP i el que recibeix el regal perdra 20 de HP"																								
+echo "30. Descans Aquatic - Una clase aleatoria pot eixir a beure aigua o per a fer les seues necessitats durant un dia (no es necesari demanarliu al professor)"																								
+echo "31. Hemoplaga - Un jugador aleatori roba 20 de XP a tots els jugadors que hi ha a la classe."
+echo
+echo "______________________________________________________________________________________________________________________________________"
+echo
+echo "                                                 9-Tornar al menú principal" 
+echo 																								
